@@ -336,7 +336,8 @@ img {
   font-weight: 700;
 }
 
-.wi-fi__btn.unlock__btn {
+.wi-fi__btn,
+.unlock__btn {
   color: var(--primary-back-color);
   background-color: var(--color-btn);
   font-family: inherit;
